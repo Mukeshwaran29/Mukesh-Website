@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-geist-bg text-geist-fg font-sans;
+    font-feature-settings: "cv01", "cv02", "cv03", "cv04";
+  }
+
+  ::selection {
+    @apply bg-geist-accent-bg text-geist-accent;
+  }
+}
+
+@layer components {
+  .section-container {
+    @apply max-w-[1200px] mx-auto px-6 md:px-8 lg:px-10;
+  }
+
+  .section-spacing {
+    @apply py-16 md:py-24 lg:py-32;
+  }
+
+  .heading-1 {
+    @apply font-sans text-5xl md:text-6xl lg:text-7xl font-semibold tracking-tightest leading-[1.05];
+  }
+
+  .heading-2 {
+    @apply font-sans text-3xl md:text-4xl lg:text-5xl font-semibold tracking-tighter leading-[1.1];
+  }
+
+  .heading-3 {
+    @apply font-sans text-xl md:text-2xl font-semibold tracking-tight leading-[1.3];
+  }
+
+  .body-text {
+    @apply text-[15px] md:text-base leading-relaxed text-geist-fg-secondary;
+  }
+
+  .label-text {
+    @apply text-sm leading-relaxed text-geist-fg-tertiary;
+  }
+
+  .geist-card {
+    @apply bg-geist-bg border border-geist-border rounded-geist p-6 md:p-8;
+  }
+
+  .geist-link {
+    @apply text-geist-accent hover:text-geist-accent-hover transition-colors duration-150;
+  }
+}
