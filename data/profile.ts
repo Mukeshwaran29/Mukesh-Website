@@ -40,48 +40,49 @@ export const experience = {
       title: "Senior Associate – Acuity Analytics",
       company: "Acuity Knowledge Partners",
       period: "Apr 2026 – Present",
+      location: "Bengaluru, India",
       highlights: [
-        "Leading automation initiatives to enhance client reporting efficiency and accuracy.",
-        "Mentoring junior associates and driving knowledge transfer on capital markets workflows.",
-        "Partnering with stakeholders to design scalable reporting solutions aligned with ESG and regulatory requirements.",
+        "Automation & Template Engineering: Architect and automate end-to-end investment presentation templates using advanced Seismic LiveDocs features, including Dynamic Tables, Local & Computed Variables, Dynamic Slides, Slide Grouping, Live Forms, and LiveDoc Express.",
+        "Full LiveDocs Development: Engineered multiple complex, full-scale LiveDocs powered by dynamic Seismic Variables to automate data integration, eliminate manual copy-pasting, and accelerate pitchbook generation cycles.",
+        "Platform Governance & Site Administration: Oversee automated dynamic content workflows and site governance within Seismic, ensuring seamless template updates, platform scalability, brand consistency, and regulatory compliance alignment.",
+        "Advanced SQL Data Manipulation: Query and manipulate complex capital markets databases using Advanced SQL — utilizing Complex Joins, Common Table Expressions (CTEs), and Window Functions to extract, aggregate, and validate portfolio data for institutional reporting."
       ],
     },
     {
       title: "Associate – Client Reporting",
       company: "Acuity Knowledge Partners",
-      period: "Dec 2022 – Apr 2026 (3 yrs 5 mos)",
+      period: "Dec 2022 – Feb 2026 (3 yrs 3 mos)",
+      location: "Bengaluru, India",
       highlights: [
-        "Designed and automated reporting workflows across Equity, Fixed Income, Derivatives, ESG, and regulatory domains, reducing manual effort significantly.",
-        "Built VBA macros and Power Query solutions that saved 54+ hours per quarter, improving turnaround time and accuracy.",
-        "Delivered client-ready reports using Advanced Excel, SQL, Power BI, Seismic, and FactSet, ensuring compliance with IP Disclosures and Fee Schedules.",
-        "Trained and mentored new hires, strengthening team capability in capital markets reporting.",
+        "GIPS Compliant Performance Reporting: Engineered monthly and quarterly composite performance presentations strictly aligned with Global Investment Performance Standards (GIPS) for Client Meetings, Executive Roadshows, and Board Presentations — executing benchmark comparison analysis, composite dispersion calculations, and Net vs. Gross return calculations across multi-asset strategy portfolios.",
+        "Performance Attribution & Portfolio Analytics: Prepared institutional attribution reports and portfolio characteristic breakdowns (analyzing risk-adjusted returns, tracking error, Sharpe ratio, sector allocation vs. security selection, top holdings, market cap distributions, and duration/yield metrics) to deliver accurate reporting materials for global clients.",
+        "Workflow Automation & Impact: Engineered 32 custom VBA macros and optimized complex Seismic report templates, slashing manual processing effort by 38+ hours per reporting cycle.",
+        "Multi-Platform Data Retrieval: Leveraged FactSet, Seismic, SAP Business Objects, Advanced Excel, and Power Query to pull multi-asset portfolio analytics, build bespoke client reporting packages, and automate quarterly deliverables.",
+        "Compliance & Regulatory Governance: Partnered with global Compliance teams to embed required IP disclosures, performance metrics, and fee schedules into client outputs, ensuring 100% regulatory alignment.",
+        "Team Leadership & Operational SLAs: Mentored a 4-member team on end-to-end delivery, workload distribution, quality assurance, and VBA macro automation, maintaining 100% SLA adherence with a near-zero escalation rate."
       ],
     },
     {
-      title: "Senior Analyst",
+      title: "Senior Analyst – Client Reporting & Operations",
       company: "BNY Mellon",
       period: "Mar 2020 – Dec 2022 (2 yrs 10 mos)",
       location: "Chennai, India",
       highlights: [
-        "Created and analyzed new client accounts, ensuring accuracy and compliance with requests.",
-        "Served as Subject Matter Expert in equity, derivatives, mutual funds, and capital markets.",
-        "Hands-on exposure to financial instruments: Equities, Options, Bonds, Futures, Forwards, CDS.",
-        "Conducted gap analysis of client orders, position reconciliation, and cash reconciliation.",
-        "Investigated fund discrepancies, supported data conversion/migration projects, and performed daily, monthly, and quarterly audits.",
-        "Reviewed NAVs, client statements, and corporate actions using Bloomberg Terminal.",
-        "Drove automation by creating at least one new process improvement annually, including SQL scripts and workflow simplifications.",
-        "Collaborated with global teams via Teams/Email, ensuring smooth communication and issue resolution.",
-        "Updated SOPs to reduce recurring errors and improve efficiency in client-specific processes.",
+        "Fund Accounting & Asset Servicing: Managed daily operational workflows for multi-asset classes (Equities, Options, Bonds, Futures, Forwards, CDS), conducting NAV reviews, corporate action tracking, and client statement reconciliations via Bloomberg Terminal.",
+        "Reconciliation & Auditing: Executed daily position, cash, and gap reconciliations for complex global accounts; investigated fund break discrepancies and resolved exceptions within strict daily SLAs.",
+        "Process Improvement: Spearheaded annual process improvement projects by developing custom SQL scripts and VBA macro utilities that automated manual audit checks and shortened file processing cycles.",
+        "System Data Migration: Supported legacy data conversion and migration projects, executing rigorous daily, monthly, and quarterly audits to ensure zero data loss during database transitions."
       ],
     },
     {
-      title: "Equity Advisory & Auditing",
-      company: "Earlier Roles",
-      period: "Prior to 2020",
+      title: "Equity Advisor",
+      company: "Karvy Stock Broking",
+      period: "Jun 2019 – Dec 2019 (7 mos)",
+      location: "Chennai, India",
       highlights: [
-        "Provided advisory support in equity markets, developing strong analytical and compliance expertise.",
-        "Conducted audits and financial reviews, ensuring governance and accuracy in reporting.",
-        "Built foundational skills in financial analysis, client communication, and process improvement.",
+        "Multi-Asset HNW Portfolio Advisory: Managed portfolios for High-Net-Worth (HNW) clients across Equities, Derivatives (F&O), Currencies, and Commodities, conducting regular risk assessments and rebalancing asset allocations to match client risk profiles.",
+        "NISM-Certified Market Research: Executed buy/sell-side research analysis using NISM-certified frameworks, tracking sectoral trends and delivering tailored tactical trade recommendations across global asset classes.",
+        "AUM Growth & Performance Tracking: Monitored daily portfolio performance and AUM movements against market benchmarks, driving client retention and acquiring new retail and institutional accounts."
       ],
     },
   ],
@@ -131,16 +132,56 @@ export const certifications = {
   title: "Certifications",
   items: [
     {
-      name: "Seismic University – Certified Content Manager",
+      name: "Seismic Certified Content Manager | Seismic University",
       date: "Feb 2026",
       description: "Expertise in structuring, organizing, and optimizing content workflows for scalability and efficiency.",
+      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
     },
     {
-      name: "Seismic University – Certified Site Administrator",
+      name: "Seismic Certified Site Administrator | Seismic University",
       date: "Feb 2026",
       description: "Skilled in platform governance, automation, and streamlined user experiences.",
+      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
     },
+    {
+      name: "Microsoft AI Skills Certification | Microsoft",
+      date: "2026",
+      description: "Proficiency in leveraging AI tools for automation and workflow improvements.",
+      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
+    },
+    {
+      name: "Corporate Finance Fundamentals | Corporate Finance Institute (CFI)",
+      date: "Prior",
+      description: "Solid foundation in corporate finance principles, financial analysis, and valuation.",
+      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
+    },
+    {
+      name: "Equity & Currency Derivatives Certification | NISM",
+      date: "Prior",
+      description: "Comprehensive understanding of equity and currency derivatives markets and instruments.",
+      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
+    }
   ],
+};
+
+export const projects = {
+  title: "Projects & Automation Initiatives",
+  items: [
+    {
+      title: "Enterprise Macro Automation Engine & Upskilling Framework",
+      role: "Acuity Analytics",
+      techStack: "Advanced Excel, VBA Macros, Power Query, AI Automation (Claude, ChatGPT), SOP Documentation, Video Training",
+      description: "Engineered 32 custom VBA macros and re-architected Excel slide generation templates across quarterly reporting cycles, cutting processing time by 15 minutes per slide and saving 38+ hours (2,305+ minutes) of manual effort per cycle.",
+      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
+    },
+    {
+      title: "Technical SOP & Video Training Series",
+      role: "Acuity Analytics",
+      techStack: "SOP Documentation, Video Training",
+      description: "Authored a 12-slide technical PDF SOP paired with a 5-part video series (30 mins total) standardizing macro creation workflows. Conducted 20+ interactive technical training sessions with peer specialists, empowering team members to independently develop and maintain their own automated VBA utilities.",
+      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
+    }
+  ]
 };
 
 export const awards = {
@@ -169,8 +210,10 @@ export const nav = {
   links: [
     { label: "About", href: "#about" },
     { label: "Experience", href: "#experience" },
+    { label: "Projects", href: "#projects" },
     { label: "Skills", href: "#skills" },
     { label: "Education", href: "#education" },
+    { label: "Certifications", href: "#certifications" },
     { label: "Awards", href: "#awards" },
     { label: "Contact", href: "#contact" },
   ],
