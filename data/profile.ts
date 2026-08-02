@@ -7,7 +7,7 @@
 export const profile = {
   name: "Mukeshwaran S",
   role: "Automation Specialist",
-  tagline: "7+ years in data analysis, client reporting & process automation across capital markets",
+  tagline: "7+ years driving operational efficiency, data governance, and process automation across capital markets",
   email: "mukeshwaran2903@gmail.com",
   phone: "9841006147",
   linkedin: "https://www.linkedin.com/in/mukeshwaran-s-57b45a136/",
@@ -18,7 +18,7 @@ export const profile = {
 export const hero = {
   greeting: "Hello, I'm",
   highlight: "Automation Specialist",
-  subtitle: "Driving efficiency with award-winning automation solutions that save time and reduce manual effort across capital markets.",
+  subtitle: "Driving operational efficiency, data governance, and process automation across capital markets and investment workflows.",
   cta: {
     primary: { label: "Get in Touch", href: "#contact" },
     secondary: { label: "View Experience", href: "#experience" },
@@ -26,52 +26,49 @@ export const hero = {
 };
 
 export const about = {
-  title: "About",
+  title: "Professional Summary",
   paragraphs: [
-    "Automation Specialist with 7+ years of experience in data analysis, client reporting, and process automation across capital markets. Recognized for driving efficiency with award‑winning automation solutions that save time and reduce manual effort.",
-    "Skilled in Advanced Excel, SQL, Power BI, VBA, Seismic, and FactSet, delivering insights that empower smarter decisions. Passionate about building scalable systems that add measurable business value and foster collaboration.",
+    "Automation Specialist and Client Reporting Professional with 7+ years of experience driving operational efficiency, data governance, and process automation across capital markets and investment management workflows.",
+    "Proven track record of leveraging Advanced Excel, VBA, SQL, Power BI, Seismic, FactSet, and Generative AI tools (Claude, ChatGPT) to eliminate manual touchpoints, save 50+ hours per quarter, and deliver institutional-grade accuracy. Expertise spans multi-asset classes (Equities, Fixed Income, F&O, Derivatives, ESG), platform administration, and cross-functional team enablement."
   ],
 };
 
 export const experience = {
-  title: "Experience",
+  title: "Professional Experience",
   roles: [
     {
-      title: "Senior Associate – Acuity Analytics",
-      company: "Acuity Knowledge Partners",
+      title: "Senior Associate – Seismic Content Automation (▲ PROMOTED)",
+      company: "Acuity Analytics",
       period: "Apr 2026 – Present",
-      location: "Bengaluru, India",
+      location: "India",
       highlights: [
         "Automation & Template Engineering: Architect and automate end-to-end investment presentation templates using advanced Seismic LiveDocs features, including Dynamic Tables, Local & Computed Variables, Dynamic Slides, Slide Grouping, Live Forms, and LiveDoc Express.",
-        "Full LiveDocs Development: Engineered multiple complex, full-scale LiveDocs powered by dynamic Seismic Variables to automate data integration, eliminate manual copy-pasting, and accelerate pitchbook generation cycles.",
+        "Full LiveDocs Development: Engineered multiple Complex, full-scale LiveDocs powered by dynamic Seismic Variables to automate data integration, eliminate manual copy-pasting, and accelerate pitchbook generation cycles.",
         "Platform Governance & Site Administration: Oversee automated dynamic content workflows and site governance within Seismic, ensuring seamless template updates, platform scalability, brand consistency, and regulatory compliance alignment.",
         "Advanced SQL Data Manipulation: Query and manipulate complex capital markets databases using Advanced SQL — utilizing Complex Joins, Common Table Expressions (CTEs), and Window Functions to extract, aggregate, and validate portfolio data for institutional reporting."
       ],
     },
     {
-      title: "Associate – Client Reporting",
-      company: "Acuity Knowledge Partners",
+      title: "Associate – Investment Reporting & Seismic Service",
+      company: "Acuity Analytics",
       period: "Dec 2022 – Feb 2026 (3 yrs 3 mos)",
       location: "Bengaluru, India",
       highlights: [
         "GIPS Compliant Performance Reporting: Engineered monthly and quarterly composite performance presentations strictly aligned with Global Investment Performance Standards (GIPS) for Client Meetings, Executive Roadshows, and Board Presentations — executing benchmark comparison analysis, composite dispersion calculations, and Net vs. Gross return calculations across multi-asset strategy portfolios.",
         "Performance Attribution & Portfolio Analytics: Prepared institutional attribution reports and portfolio characteristic breakdowns (analyzing risk-adjusted returns, tracking error, Sharpe ratio, sector allocation vs. security selection, top holdings, market cap distributions, and duration/yield metrics) to deliver accurate reporting materials for global clients.",
-        "Workflow Automation & Impact: Engineered 32 custom VBA macros and optimized complex Seismic report templates, slashing manual processing effort by 38+ hours per reporting cycle.",
-        "Multi-Platform Data Retrieval: Leveraged FactSet, Seismic, SAP Business Objects, Advanced Excel, and Power Query to pull multi-asset portfolio analytics, build bespoke client reporting packages, and automate quarterly deliverables.",
-        "Compliance & Regulatory Governance: Partnered with global Compliance teams to embed required IP disclosures, performance metrics, and fee schedules into client outputs, ensuring 100% regulatory alignment.",
-        "Team Leadership & Operational SLAs: Mentored a 4-member team on end-to-end delivery, workload distribution, quality assurance, and VBA macro automation, maintaining 100% SLA adherence with a near-zero escalation rate."
+        "Workflow Automation & Impact: Engineered 32 custom VBA macros and optimized complex Seismic report templates, slashing manual processing effort by 38+ hours per reporting cycle and been awarded for it.",
+        "Compliance & Regulatory Governance of troweprice: Partnered with global troweprice Compliance teams to embed required IP disclosures, performance metrics, and fee schedules into client outputs, ensuring 100% regulatory alignment. Establish reporting requirements, and maintain accurate CRM records."
       ],
     },
     {
-      title: "Senior Analyst – Client Reporting & Operations",
+      title: "Associate – Client Reporting & Operations",
       company: "BNY Mellon",
       period: "Mar 2020 – Dec 2022 (2 yrs 10 mos)",
       location: "Chennai, India",
       highlights: [
-        "Fund Accounting & Asset Servicing: Managed daily operational workflows for multi-asset classes (Equities, Options, Bonds, Futures, Forwards, CDS), conducting NAV reviews, corporate action tracking, and client statement reconciliations via Bloomberg Terminal.",
-        "Reconciliation & Auditing: Executed daily position, cash, and gap reconciliations for complex global accounts; investigated fund break discrepancies and resolved exceptions within strict daily SLAs.",
-        "Process Improvement: Spearheaded annual process improvement projects by developing custom SQL scripts and VBA macro utilities that automated manual audit checks and shortened file processing cycles.",
-        "System Data Migration: Supported legacy data conversion and migration projects, executing rigorous daily, monthly, and quarterly audits to ensure zero data loss during database transitions."
+        "Account Administration & Retirement Plans: Managed the end-to-end setup, ongoing maintenance, and administration for diverse retirement portfolios, including 401(k), Traditional/Roth IRAs, SEP IRAs, Simple IRAs, and Keogh plans.",
+        "Financial Operations & Asset Mobility: Executed complex transactional processes (purchases, redemptions, exchanges, reinvestments) and managed custodial direct rollovers and source-of-funding verifications (ACH, wires, checks) with strict compliance and SLA adherence.",
+        "Client & Stakeholder Management: Consulted and partnered with key clients, internal teams, and multi-functional stakeholders to define business requirements, deliver tailored reporting solutions, and ensure high operational satisfaction."
       ],
     },
     {
@@ -89,42 +86,44 @@ export const experience = {
 };
 
 export const skills = {
-  title: "Skills & Tools",
+  title: "Core Competence",
   categories: [
     {
-      name: "Data & Analytics",
-      items: ["Advanced Excel", "SQL", "Power BI", "VBA", "Power Query", "SAP Business Objects"],
+      name: "Reporting & Analytics",
+      items: ["Client & Performance Reporting", "Pitchbooks & Factsheets", "Risk & NAV Reports", "GIPS Performance Analysis & Attribution", "Portfolio Characteristics", "Audit & Reconciliation", "Institutional Reporting"],
     },
     {
-      name: "Platforms",
-      items: ["Seismic", "FactSet", "Bloomberg Terminal", "Seismic Automation"],
+      name: "Technology & Automation",
+      items: ["Advanced Excel", "VBA Macros", "SQL (Joins, CTEs, Window Functions)", "Power Query", "Power BI", "Generative AI (Claude, ChatGPT, Anitgravity)", "SAP Business Objects", "Jira", "FactSet", "Seismic (LiveDocs, Local/Computed Variables, Site Admin)", "Monday.com", "Process Automation"],
     },
     {
-      name: "Domains",
-      items: ["Capital Markets", "Equity", "Fixed Income", "Derivatives", "ESG", "Regulatory Reporting"],
-    },
-    {
-      name: "Process",
-      items: ["Automation", "Client Reporting", "Process Improvement", "Mentoring", "Stakeholder Management"],
+      name: "Client Operations & Process",
+      items: ["Process Improvement", "Automation Leadership", "Stakeholder Management", "SLA & Deadline Management", "Knowledge Transfer & Mentoring", "SOP Creation"],
     },
   ],
 };
 
 export const education = {
-  title: "Education",
+  title: "Education & Public Speaking",
   items: [
     {
       degree: "MBA",
       school: "SRM Institute of Science and Technology",
-      year: "2019",
-      grade: "68.9%",
+      year: "",
+      grade: "",
     },
     {
       degree: "B.Com",
-      school: "Asan Memorial College Of Arts and Science",
-      year: "2017",
-      grade: "65.7%",
+      school: "Asan Memorial College of Arts and Science",
+      year: "",
+      grade: "",
     },
+    {
+      degree: "Public Speaking & Leadership Participant",
+      school: "Toastmasters International",
+      year: "Active",
+      grade: "",
+    }
   ],
 };
 
@@ -132,34 +131,22 @@ export const certifications = {
   title: "Certifications",
   items: [
     {
-      name: "Seismic Certified Content Manager | Seismic University",
-      date: "Feb 2026",
-      description: "Expertise in structuring, organizing, and optimizing content workflows for scalability and efficiency.",
-      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
+      name: "Seismic Certified Content Manager",
+      date: "",
+      description: "",
+      link: "YOUR_LINK_HERE"
     },
     {
-      name: "Seismic Certified Site Administrator | Seismic University",
-      date: "Feb 2026",
-      description: "Skilled in platform governance, automation, and streamlined user experiences.",
-      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
-    },
-    {
-      name: "Microsoft AI Skills Certification | Microsoft",
-      date: "2026",
-      description: "Proficiency in leveraging AI tools for automation and workflow improvements.",
-      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
-    },
-    {
-      name: "Corporate Finance Fundamentals | Corporate Finance Institute (CFI)",
-      date: "Prior",
-      description: "Solid foundation in corporate finance principles, financial analysis, and valuation.",
-      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
+      name: "Seismic Certified Site Administrator",
+      date: "",
+      description: "",
+      link: "YOUR_LINK_HERE"
     },
     {
       name: "Equity & Currency Derivatives Certification | NISM",
-      date: "Prior",
-      description: "Comprehensive understanding of equity and currency derivatives markets and instruments.",
-      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
+      date: "",
+      description: "",
+      link: "YOUR_LINK_HERE"
     }
   ],
 };
@@ -168,18 +155,11 @@ export const projects = {
   title: "Projects & Automation Initiatives",
   items: [
     {
-      title: "Enterprise Macro Automation Engine & Upskilling Framework",
+      title: "Enterprise Macro Automation & Prompt Engineering",
       role: "Acuity Analytics",
-      techStack: "Advanced Excel, VBA Macros, Power Query, AI Automation (Claude, ChatGPT), SOP Documentation, Video Training",
-      description: "Engineered 32 custom VBA macros and re-architected Excel slide generation templates across quarterly reporting cycles, cutting processing time by 15 minutes per slide and saving 38+ hours (2,305+ minutes) of manual effort per cycle.",
-      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
-    },
-    {
-      title: "Technical SOP & Video Training Series",
-      role: "Acuity Analytics",
-      techStack: "SOP Documentation, Video Training",
-      description: "Authored a 12-slide technical PDF SOP paired with a 5-part video series (30 mins total) standardizing macro creation workflows. Conducted 20+ interactive technical training sessions with peer specialists, empowering team members to independently develop and maintain their own automated VBA utilities.",
-      link: "YOUR_GOOGLE_DRIVE_LINK_HERE"
+      techStack: "Advanced Excel, VBA Macros, Power Query, AI (Claude, ChatGPT), SOP Documentation, Video Training",
+      description: "Engineered 50+ custom VBA macros and re-architected Excel slide generation templates across quarterly reporting cycles, cutting processing time by 15 minutes per slide and saving 38+ hours (2,305+ minutes) of manual effort per cycle. Authored a 12-slide technical PDF SOP paired with 5-part video series (30 mins total) standardizing macro creation workflows for all the team members. Conducted 20+ interactive technical training sessions with peer specialists, empowering team members to independently develop and maintain their own automated VBA utilities.",
+      link: "YOUR_LINK_HERE"
     }
   ]
 };
@@ -187,13 +167,10 @@ export const projects = {
 export const awards = {
   title: "Awards & Recognition",
   items: [
-    { award: "Process Improvement Award", year: "2025", detail: "For automating client workflows and saving significant manual effort." },
-    { award: "Associate of the Quarter", year: "Q1 2025", detail: "Recognized for outstanding performance and delivery excellence." },
-    { award: "Ace Innovator Award", year: "2025", detail: "Honored for driving efficiency through automation and innovation in reporting." },
-    { award: "WOW Awards (3x)", year: "2020–2022", detail: "Received at BNY Mellon for exceptional contributions." },
-    { award: "Best Processor", year: "2020–2022", detail: "Recognized multiple times at BNY Mellon." },
-    { award: "Rising Star", year: "Prior", detail: "Awarded at Karvy Stock Broking." },
-    { award: "Finance Quiz Runner-Up", year: "2019", detail: "During MBA at SRM Institute." },
+    { award: "Ace Innovator Award", year: "2025", detail: "Acuity Analytics", link: "YOUR_LINK_HERE" },
+    { award: "Process Improvement Award", year: "2025", detail: "T. Rowe price", link: "YOUR_LINK_HERE" },
+    { award: "1st Runner Up place in Copilot AI agent for enterprise workflows and Prompt Engineering", year: "Feb 2026", detail: "Acuity Analytics", link: "YOUR_LINK_HERE" },
+    { award: "Associate of the Quarter", year: "Q1 2025", detail: "Acuity Knowledge Partners", link: "YOUR_LINK_HERE" }
   ],
 };
 
