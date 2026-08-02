@@ -37,7 +37,8 @@ export const experience = {
   title: "Professional Experience",
   roles: [
     {
-      title: "Senior Associate – Seismic Content Automation (▲ PROMOTED)",
+      title: "Senior Associate – Seismic Content Automation",
+      promoted: true,
       company: "Acuity Analytics",
       period: "Apr 2026 – Present",
       location: "India",
@@ -50,6 +51,7 @@ export const experience = {
     },
     {
       title: "Associate – Investment Reporting & Seismic Service",
+      promoted: false,
       company: "Acuity Analytics",
       period: "Dec 2022 – Feb 2026 (3 yrs 3 mos)",
       location: "Bengaluru, India",
@@ -62,6 +64,7 @@ export const experience = {
     },
     {
       title: "Associate – Client Reporting & Operations",
+      promoted: false,
       company: "BNY Mellon",
       period: "Mar 2020 – Dec 2022 (2 yrs 10 mos)",
       location: "Chennai, India",
@@ -73,6 +76,7 @@ export const experience = {
     },
     {
       title: "Equity Advisor",
+      promoted: false,
       company: "Karvy Stock Broking",
       period: "Jun 2019 – Dec 2019 (7 mos)",
       location: "Chennai, India",
@@ -134,13 +138,13 @@ export const certifications = {
       name: "Seismic Certified Content Manager",
       date: "",
       description: "",
-      link: "YOUR_LINK_HERE"
+      link: "https://drive.google.com/file/d/1mZsZM0t9Vz8NLRAsmxU3rRR4kcHO9Z1B/view?usp=drive_link"
     },
     {
       name: "Seismic Certified Site Administrator",
       date: "",
       description: "",
-      link: "YOUR_LINK_HERE"
+      link: "https://drive.google.com/file/d/1XZMfc-eZxGIrOaB_Jaq8aPguTwQTiKWK/view?usp=drive_link"
     },
     {
       name: "Equity & Currency Derivatives Certification | NISM",
@@ -159,7 +163,7 @@ export const projects = {
       role: "Acuity Analytics",
       techStack: "Advanced Excel, VBA Macros, Power Query, AI (Claude, ChatGPT), SOP Documentation, Video Training",
       description: "Engineered 50+ custom VBA macros and re-architected Excel slide generation templates across quarterly reporting cycles, cutting processing time by 15 minutes per slide and saving 38+ hours (2,305+ minutes) of manual effort per cycle. Authored a 12-slide technical PDF SOP paired with 5-part video series (30 mins total) standardizing macro creation workflows for all the team members. Conducted 20+ interactive technical training sessions with peer specialists, empowering team members to independently develop and maintain their own automated VBA utilities.",
-      link: "YOUR_LINK_HERE"
+      link: "https://drive.google.com/drive/u/0/folders/1M9IAv1xctC0kMXbMsopm6XRAhlpNDQ4Z"
     }
   ]
 };
